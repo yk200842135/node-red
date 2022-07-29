@@ -1,15 +1,14 @@
 {
-    "name": "@keymantech/node-red",
-    "version": "3.0.1",
+    "name": "@axiosleo/node-red",
+    "version": "0.0.1",
     "description": "Fork from node-red",
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/AxiosLeo/node-red"
     },
-    "private": "true",
     "scripts": {
-        "start": "node packages/node_modules/@keymantech/node-red/red.js",
+        "start": "node packages/node_modules/node-red/red.js",
         "test": "grunt",
         "build": "grunt build",
         "dev": "grunt dev",
