@@ -1,6 +1,6 @@
 {
-    "name": "@axiosleo/node-red",
-    "version": "0.0.1",
+    "name": "node-red-test1",
+    "version": "0.0.2",
     "description": "Fork from node-red",
     "license": "Apache-2.0",
     "repository": {
